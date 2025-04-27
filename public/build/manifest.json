@@ -1,0 +1,157 @@
+{
+  "resources/fonts/bootstrap-icons.woff": {
+    "file": "assets/bootstrap-icons-BOrJxbIo.woff",
+    "src": "resources/fonts/bootstrap-icons.woff"
+  },
+  "resources/fonts/bootstrap-icons.woff2": {
+    "file": "assets/bootstrap-icons-BtvjY1KL.woff2",
+    "src": "resources/fonts/bootstrap-icons.woff2"
+  },
+  "resources/images/AdminLTEFullLogo.png": {
+    "file": "assets/AdminLTEFullLogo-BZS0Wip4.png",
+    "src": "resources/images/AdminLTEFullLogo.png"
+  },
+  "resources/images/AdminLTELogo.png": {
+    "file": "assets/AdminLTELogo-uzpte6X3.png",
+    "src": "resources/images/AdminLTELogo.png"
+  },
+  "resources/images/avatar.png": {
+    "file": "assets/avatar-CScrvNw2.png",
+    "src": "resources/images/avatar.png"
+  },
+  "resources/images/avatar2.png": {
+    "file": "assets/avatar2-DZuuROQ_.png",
+    "src": "resources/images/avatar2.png"
+  },
+  "resources/images/avatar3.png": {
+    "file": "assets/avatar3-Cy9pUFw6.png",
+    "src": "resources/images/avatar3.png"
+  },
+  "resources/images/avatar4.png": {
+    "file": "assets/avatar4-SiStklQg.png",
+    "src": "resources/images/avatar4.png"
+  },
+  "resources/images/avatar5.png": {
+    "file": "assets/avatar5-kPofl4h2.png",
+    "src": "resources/images/avatar5.png"
+  },
+  "resources/images/boxed-bg.jpg": {
+    "file": "assets/boxed-bg-wW5CuNpD.jpg",
+    "src": "resources/images/boxed-bg.jpg"
+  },
+  "resources/images/boxed-bg.png": {
+    "file": "assets/boxed-bg-BAv5eaem.png",
+    "src": "resources/images/boxed-bg.png"
+  },
+  "resources/images/credit/american-express.png": {
+    "file": "assets/american-express-CKCyp068.png",
+    "src": "resources/images/credit/american-express.png"
+  },
+  "resources/images/credit/cirrus.png": {
+    "file": "assets/cirrus-IaRA7mQ5.png",
+    "src": "resources/images/credit/cirrus.png"
+  },
+  "resources/images/credit/mastercard.png": {
+    "file": "assets/mastercard-BYU2F5_a.png",
+    "src": "resources/images/credit/mastercard.png"
+  },
+  "resources/images/credit/paypal.png": {
+    "file": "assets/paypal-CgeJoLDX.png",
+    "src": "resources/images/credit/paypal.png"
+  },
+  "resources/images/credit/paypal2.png": {
+    "file": "assets/paypal2-DPsjsIAN.png",
+    "src": "resources/images/credit/paypal2.png"
+  },
+  "resources/images/credit/visa.png": {
+    "file": "assets/visa-BdX3PK3j.png",
+    "src": "resources/images/credit/visa.png"
+  },
+  "resources/images/default-150x150.png": {
+    "file": "assets/default-150x150-CtEJLlua.png",
+    "src": "resources/images/default-150x150.png"
+  },
+  "resources/images/icons.png": {
+    "file": "assets/icons-BzfFK_0_.png",
+    "src": "resources/images/icons.png"
+  },
+  "resources/images/photo1.png": {
+    "file": "assets/photo1-DQfSbJuh.png",
+    "src": "resources/images/photo1.png"
+  },
+  "resources/images/photo2.png": {
+    "file": "assets/photo2-BXv9RpwX.png",
+    "src": "resources/images/photo2.png"
+  },
+  "resources/images/photo3.jpg": {
+    "file": "assets/photo3-BDgx57SN.jpg",
+    "src": "resources/images/photo3.jpg"
+  },
+  "resources/images/photo4.jpg": {
+    "file": "assets/photo4-ib5qcKD6.jpg",
+    "src": "resources/images/photo4.jpg"
+  },
+  "resources/images/prod-1.jpg": {
+    "file": "assets/prod-1-BQKLoXog.jpg",
+    "src": "resources/images/prod-1.jpg"
+  },
+  "resources/images/prod-2.jpg": {
+    "file": "assets/prod-2-DNDhdMyf.jpg",
+    "src": "resources/images/prod-2.jpg"
+  },
+  "resources/images/prod-3.jpg": {
+    "file": "assets/prod-3-DbaKnQBc.jpg",
+    "src": "resources/images/prod-3.jpg"
+  },
+  "resources/images/prod-4.jpg": {
+    "file": "assets/prod-4-lamPKsjl.jpg",
+    "src": "resources/images/prod-4.jpg"
+  },
+  "resources/images/prod-5.jpg": {
+    "file": "assets/prod-5-CKFiwJo8.jpg",
+    "src": "resources/images/prod-5.jpg"
+  },
+  "resources/images/user1-128x128.jpg": {
+    "file": "assets/user1-128x128-B7UmPDyy.jpg",
+    "src": "resources/images/user1-128x128.jpg"
+  },
+  "resources/images/user2-160x160.jpg": {
+    "file": "assets/user2-160x160-Gqj2jJ4z.jpg",
+    "src": "resources/images/user2-160x160.jpg"
+  },
+  "resources/images/user3-128x128.jpg": {
+    "file": "assets/user3-128x128-XH3Yrv85.jpg",
+    "src": "resources/images/user3-128x128.jpg"
+  },
+  "resources/images/user4-128x128.jpg": {
+    "file": "assets/user4-128x128-JNBSal7c.jpg",
+    "src": "resources/images/user4-128x128.jpg"
+  },
+  "resources/images/user5-128x128.jpg": {
+    "file": "assets/user5-128x128-Cyy6dtFo.jpg",
+    "src": "resources/images/user5-128x128.jpg"
+  },
+  "resources/images/user6-128x128.jpg": {
+    "file": "assets/user6-128x128-C7MbQ3jb.jpg",
+    "src": "resources/images/user6-128x128.jpg"
+  },
+  "resources/images/user7-128x128.jpg": {
+    "file": "assets/user7-128x128-DFr-Ozs_.jpg",
+    "src": "resources/images/user7-128x128.jpg"
+  },
+  "resources/images/user8-128x128.jpg": {
+    "file": "assets/user8-128x128-CoXlww4K.jpg",
+    "src": "resources/images/user8-128x128.jpg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-vqIwjETf.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/scss/app.scss": {
+    "file": "assets/app-DYnIXPDv.css",
+    "src": "resources/scss/app.scss",
+    "isEntry": true
+  }
+}
