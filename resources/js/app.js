@@ -1,6 +1,7 @@
 import.meta.glob([
     '../images/**',
-    '../fonts/**'
+    '../fonts/**',
   ]);
+import'bootstrap';
 import 'admin-lte';
 import'./overlayscrollbar';

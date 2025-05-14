@@ -8,18 +8,10 @@
     </div>
     <div class="card">
         <div class="card-body register-card-body">
-            <p class="register-box-msg">Register a new membership</p>
-            <form action="{{route('register')}}" method="post">
+            <p class="register-box-msg">Reset Password</p>
+            <form action="{{route('password.update')}}" method="post">
                 @csrf
-                <div class="input-group mb-3">
-                    <div class="input-group-text"><span class="bi bi-person"></span></div>
-                    <input type="text" name="name" class="form-control @error('name') is-invalid @enderror" placeholder="Full Name" value="{{old('name')}}" />
-                    @error('name')
-                    <div class="invalid-feedback">
-                        {{ $message }}
-                    </div>
-                    @enderror
-                </div>
+                <input type="hidden" name="token" value="{{request()->token}}">
                 <div class="input-group mb-3">
                     <div class="input-group-text"><span class="bi bi-envelope"></span></div>
                     <input type="email" name="email" class="form-control @error('email') is-invalid @enderror" placeholder="Email" value="{{old('email')}}" />
@@ -43,12 +35,12 @@
                     <input type="password" name="password_confirmation" class="form-control" placeholder="Password Confirmation" />
                 </div>
                 <div class="d-grid gap-2">
-                    <button type="submit" class="btn btn-primary">Register</button>
+                    <button type="submit" class="btn btn-primary">Reset Password</button>
                 </div>
         </div>
         </form>
         <p class="mb-0 text-center">
-            <a href="{{route('login')}}" class="text-center"> I already have a membership </a>
+            <a href="login.html" class="text-center"> I already have a membership </a>
         </p>
     </div>
 </div>
